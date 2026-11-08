@@ -2,8 +2,8 @@
 
 Cloud Computing assignment by **Arihant Kumar** (`230101028`).
 
-- Repository: <https://github.com/kumararihant-06/Cloud_Assignment_1028>
-- Model release: <https://github.com/kumararihant-06/Cloud_Assignment_1028/releases/tag/model-v2>
+- Repository: (https://github.com/Dhruvraj1821/cloud_assignment)
+- Model release: <https://github.com/Dhruvraj1821/cloud_assignment/releases/tag/model-v2>
 - Main report: [`report/report.pdf`](report/report.pdf)
 - AI disclosure: [`AI_USE.md`](AI_USE.md)
 
